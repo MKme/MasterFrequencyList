@@ -3,7 +3,7 @@
 <p align="center">
 <b>Erics Master Frequency lists for RF tuning</b><br>
 <br>
-<p align="center"><img src="https://github.com/MKme/AmateurRadioMasterFrequencyList/pic/capture.png"/></p>
+<p align="center"><img src="https://github.com/MKme/AmatuerRadioMasterFrequencyList/blob/master/pic/Capture.PNG"/></p>
 Use this sheet to find any RF frequency or info. I hate having to surf the web every time I want to know X frequency or info so I made this to work offline, on my phone etc.  <br>
 <br>🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
 | 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
