@@ -14,7 +14,7 @@ Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 ### Full Video Tutorial here:
-TBD
+https://www.youtube.com/watch?v=h7HDLikYk88
 
 ### My Amateur Radio Videos:
 https://www.youtube.com/playlist?list=PLxyM2a_cfnzgv30vrsxayCxWWoKAFGgEo
