@@ -13,11 +13,11 @@ Support this project and become a patron on <a href="http://mkme.org/patreon">Er
 Website, Forum and store are at http://mkme.org <br>
 Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
-##Full Video Tutorial here:
+## Full Video Tutorial here:
 
 https://www.youtube.com/watch?v=h7HDLikYk88
 
-##My Amateur Radio Videos:
+## My Amateur Radio Videos:
 https://www.youtube.com/playlist?list=PLxyM2a_cfnzgv30vrsxayCxWWoKAFGgEo
 
 I keep a master excel file so I can refer to the common RF Frequencies, band plan etc.
